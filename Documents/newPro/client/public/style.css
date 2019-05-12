@@ -1,0 +1,55 @@
+#root{
+    align-content: center;
+    margin-top: 100px;
+    padding-top: 100px;
+
+
+}
+
+#backit{
+    background-color:  lightseagreen;
+}
+
+#formy{
+    background-color:aliceblue;
+    box-sizing: content-box;
+    justify-content: center;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 20em;
+    width: 20em;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    border-radius: 10px;
+
+}
+
+form{
+    position: absolute;
+    box-sizing: content-box;
+    justify-content: center;
+    text-align: center;
+    padding: 5em;
+
+
+
+
+
+
+
+
+
+}
+
+/*position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    */
